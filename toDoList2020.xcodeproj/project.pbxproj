@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		DC25CDB124D0791300B395F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC25CDB024D0791300B395F2 /* AppDelegate.swift */; };
 		DC25CDB324D0791300B395F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC25CDB224D0791300B395F2 /* SceneDelegate.swift */; };
-		DC25CDB524D0791300B395F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC25CDB424D0791300B395F2 /* ViewController.swift */; };
 		DC25CDB824D0791300B395F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC25CDB624D0791300B395F2 /* Main.storyboard */; };
 		DC25CDBB24D0791300B395F2 /* toDoList2020.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DC25CDB924D0791300B395F2 /* toDoList2020.xcdatamodeld */; };
 		DC25CDBD24D0791500B395F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC25CDBC24D0791500B395F2 /* Assets.xcassets */; };
@@ -20,7 +19,6 @@
 		DC25CDAD24D0791300B395F2 /* toDoList2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = toDoList2020.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC25CDB024D0791300B395F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC25CDB224D0791300B395F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DC25CDB424D0791300B395F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DC25CDB724D0791300B395F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DC25CDBA24D0791300B395F2 /* toDoList2020.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = toDoList2020.xcdatamodel; sourceTree = "<group>"; };
 		DC25CDBC24D0791500B395F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 			children = (
 				DC25CDB024D0791300B395F2 /* AppDelegate.swift */,
 				DC25CDB224D0791300B395F2 /* SceneDelegate.swift */,
-				DC25CDB424D0791300B395F2 /* ViewController.swift */,
 				DC25CDB624D0791300B395F2 /* Main.storyboard */,
 				DC25CDBC24D0791500B395F2 /* Assets.xcassets */,
 				DC25CDBE24D0791500B395F2 /* LaunchScreen.storyboard */,
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DC25CDB524D0791300B395F2 /* ViewController.swift in Sources */,
 				DC25CDB124D0791300B395F2 /* AppDelegate.swift in Sources */,
 				DC25CDB324D0791300B395F2 /* SceneDelegate.swift in Sources */,
 				DC25CDBB24D0791300B395F2 /* toDoList2020.xcdatamodeld in Sources */,
